@@ -1,0 +1,67 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>First file</title>
+  <link rel="stylesheet" href="html 5 (1).css" />
+</head>
+<body>
+ <div id="big_wrapper" >
+     <header id="top_header">
+	    <h1>
+		Welcome to my MAIRA's Webpage!
+		</h1>
+	 </header>
+	 
+	 <nav id="top_menu">
+	    <ul>
+		  <li>Home</li>
+		  <li>Tutotials</li>
+		   <li>Podcast</li>
+		</ul>
+	 </nav>
+	 <!-- all the main content -->
+	 <section id="main_section">
+	    <article>
+		    <header>
+			
+			   <hgroup>
+			     <h1>Title of the Article</h1>
+			     <h2>Subtitle for Article</h2>
+			   </hgroup> 
+			 </header>
+			<p>This is the Best article Ever!</p>
+			<footer>
+			   <p>-Written By MAIRA SHAFI</p>
+			</footer>
+		</article>
+		
+		<article>
+		    <header>
+			
+			   <hgroup>
+			     <h1>Title of the Article 2</h1>
+			     <h2>Subtitle for Article 2</h2>
+			   </hgroup> 
+			 </header>
+			<p>This is the Second Best article Ever!</p>
+			<footer>
+			   <p>-Written MAIRA SHAFI</p>
+			</footer>
+		</article>
+	 </section>
+	 <!-- all the main content -->
+	 
+	 <aside id="side_news">
+	   <h4>News</h4>
+	   MAIRA has a new CAT.
+	 </aside>
+	 
+	 <footer id="footer">
+	    Copyright maira shafi 2020
+	 </footer>
+</div> 
+</body>
+</html>
